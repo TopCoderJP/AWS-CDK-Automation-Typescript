@@ -328,4 +328,4 @@ cdk destroy VpcCdkProjectStack # Remove VPC last
 5. Open a Pull Request
 
 
-*Built with ❤️ using AWS CDK and TypeScript*
+*Built with ❤️ by Topcoder using AWS CDK and TypeScript*
