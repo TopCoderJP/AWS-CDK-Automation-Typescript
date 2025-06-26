@@ -169,7 +169,7 @@ innodb_buffer_pool_size = 75% of instance memory (~750MB)
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone <git@github.com:TopCoderJP/AWS-CDK-Automation-Typescript.git>
 cd vpc-cdk-project
 ```
 
